@@ -1,19 +1,19 @@
 [
   {
     "text": "SERVER XIAOMI CLOUD BY CODE",
-    "credits": "18 CD",
+    "credits": "13 CD",
     "bootstyle": "info",
     "command": "xiaomi_cloud"
   },
   {
     "text": "SERVER IMEI 3 BULAN",
-    "credits": "22 CD",
+    "credits": "23 CD",
     "bootstyle": "warning",
     "command": "imei_3_bulan"
   },
   {
     "text": "FRP SAMSUNG BY IMEI",
-    "credits": "12 CD",
+    "credits": "13 CD",
     "bootstyle": "success",
     "command": "frp_samsung"
   }
