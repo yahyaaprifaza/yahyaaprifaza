@@ -1,13 +1,13 @@
 [
   {
     "text": "SERVER XIAOMI CLOUD BY CODE",
-    "credits": "14 CD",
+    "credits": "13 CD",
     "bootstyle": "info",
     "command": "xiaomi_cloud"
   },
   {
     "text": "SERVER IMEI 3 BULAN",
-    "credits": "23 CD",
+    "credits": "22 CD",
     "bootstyle": "warning",
     "command": "imei_3_bulan"
   },
